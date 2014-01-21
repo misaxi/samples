@@ -1,0 +1,3 @@
+As of 21 Jan 2014, Visual Studio 2013 does not provide a way to integrate Windows Azure Active Directory after you created an ASP.NET MVC 5 project.
+
+This is to find out the difference by comparing a MVC 5 application without auth, to the one that with Windows Azure Active Directory [**Organizational Accounts**](http://www.asp.net/visual-studio/overview/2013/creating-web-projects-in-visual-studio#orgauth) enabled.
